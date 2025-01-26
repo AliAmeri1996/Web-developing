@@ -1,0 +1,195 @@
+
+.navbar-nav{font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+
+
+.nav-item{ font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+
+
+
+}
+.background {
+    flex: 1;
+    position: relative;
+}
+
+.director{font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+.release{font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 18px;
+
+}
+
+
+.average{font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 18px;
+
+
+
+}
+
+
+
+.background img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the background */
+}
+
+
+
+
+    .image-container img {
+        width: 100%;
+        height: 100%;
+    }
+
+
+
+    .img-fluid {
+      max-height: auto;
+      object-fit: relative; /* Ensures the image scales properly without distortion */
+      width: 100%;
+      position: top; /* Default positioning */
+    }
+    
+    
+  
+
+
+    .col-md-3 {
+      margin-top: 100px;
+      margin-bottom: 100px;
+      padding-top: 10px; 
+      display:flex ;
+      flex-direction: column;
+      justify-content: flex-start; /* Ensure content aligns from the top */
+      align-items: center;
+      padding: px; /* Adjust padding for spacing */
+      background-color: #f8f9fa; /* Optional: Background for better visibility */
+    }
+
+    .col-md-3 .form-label {
+      margin-bottom: 5px; /* Space between the label and star rating */
+      margin-top: 30px; /* Space above the label (if needed) */
+      font-size: 17px; /* Optional: Adjust font size */
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+      text-align: bottom;
+        /* Align the label text to the centre */
+    }
+
+
+
+
+
+
+    .image-container p {
+        position: absolute;
+        top: 25%; /* Centre vertically */
+        left: 35%; /* Centre horizontally */
+        transform: translate(-50%, -50%); /* Align to the centre */
+        color: white; /* Text colour */
+        font-size: 18px; /* Adjust font size */
+        font-family: "Times New Roman", serif; /* Font style */
+        padding: 10px; /* Add padding around the text */
+        border-radius: 5px; /* Optional: rounded corners */
+    }
+    .card {
+        border: none;
+        background: #f8f9fa; /* Subtle grey background */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for elegance */
+        border-radius: 30px;
+      }
+      
+      .card-title {
+        font-size: 1.5rem;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+        color: #333;
+      }
+      
+      .card-text {
+        font-size: 1rem;
+        color: #555;
+        font-family: 'Times New Roman', Times, serif;
+      }
+
+      .card-direc{font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        font-weight: bold
+
+      }
+
+      .card-rel{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        font-weight: bold
+
+
+      }
+
+      .card-averge{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        font-weight: bold
+
+
+      }
+
+
+
+      .star-rating {
+        margin-top: 10px; /* Adds space above the star rating to push it lower */
+        display: flex; /* Ensures the stars are aligned properly in a row */
+        justify-content: center; /* Aligns stars to the left (can be changed to 'center' or 'end') */
+        position: -20; /* Allows you to tweak its position further */
+      }
+
+      .star {
+        font-size: 24px;
+        color: #ccc; /* Default grey */
+        cursor: pointer;
+        transition: color 0.2s ease-in-out;
+        position: 20;
+      }
+      
+      .star.active {
+        color: #fbc02d;
+        position: relative; /* Yellow when clicked */
+      }
+      
+      .star.hover {
+        color: #fdd835; /* Lighter yellow when hovered */
+      }
+      
+     
+      
+
+      button {
+        font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+        background-color:none;
+        width: 150px;
+        font-size: 20px;
+        padding: 5px;
+        border-radius: none;
+        border: none;
+        color:none;
+        cursor: none;
+        position:relative
+      }
+    

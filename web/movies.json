@@ -1,0 +1,738 @@
+{
+  "crimeMovies": [
+    {
+      "id": "1",
+      "title": "Se7en",
+      "description": "Se7en is a 1995 American psychological crime thriller directed by David Fincher, renowned for its intense atmosphere, masterful storytelling, and stark exploration of human darkness. Starring Brad Pitt (Detective David Mills), Morgan Freeman (Detective William Somerset), and Kevin Spacey (John Doe), the film follows the detectives as they unravel a series of gruesome murders inspired by the seven deadly sins: gluttony, greed, sloth, envy, wrath, pride, and lust. As the duo delves deeper into the case, they find themselves drawn into a grim and increasingly personal battle of wits with Doe, whose meticulously planned crimes serve as a twisted commentary on human failings and societal corruption. With its oppressive atmosphere, bleak urban settings, and meticulous attention to detail, Se7en examines profound themes of justice, morality, and human depravity, culminating in a shocking and unforgettable climax that leaves audiences questioning the nature of good and evil. Widely regarded as a landmark in modern thriller cinema, the film has left an indelible mark on its genre and remains a masterpiece of psychological and narrative complexity.",
+      "image": "Images2/Seven.jpg",
+      "genre": "Crime, Thriller, Drama",
+      "themes": "The seven deadly sins, morality, the human condition, justice vs. vengeance",
+      "director": "David Fincher",
+      "writers": "Andrew Kevin Walker",
+      "Cast": "Brad Pitt: Plays Detective David Mills, known for his energetic and passionate approach to justice, Morgan Freeman: Plays Detective William Somerset, a seasoned and thoughtful detective nearing retirement.",
+      "trailer": "vids/Seven | Official Trailer 4K Ultra HD | Warner Bros. Entertainment.mp4",
+      "releaseYear": 1995,
+      "duration": "2 hours 7 minutes",
+      "language": "English",
+      "ratings": [
+        4,
+        3,
+        2,
+        5,
+        5,
+        4,
+        5,
+        4
+      ],
+      "averageRating": "4.0"
+    },
+    {
+      "id": "2",
+      "title": "Léon: The Professional",
+      "description": "Léon: The Professional is a 1994 French action-thriller written and directed by Luc Besson, celebrated for its gripping narrative, emotional depth, and unique character dynamics. Starring Jean Reno (Léon), Natalie Portman (Mathilda), and Gary Oldman (Norman Stansfield), the film tells the story of Léon, a reclusive and highly skilled hitman living in New York City, whose life takes an unexpected turn when he reluctantly takes in Mathilda, a 12-year-old girl seeking refuge after her family is brutally murdered by corrupt DEA agents led by the psychotic Stansfield. As Léon teaches Mathilda the art of assassination, an unlikely and poignant bond forms between the two, blurring the lines between guardian and protégé, while Mathilda becomes determined to avenge her family. Known for its intense action sequences, tender emotional moments, and unforgettable performances—particularly Portman’s astonishing debut as Mathilda and Oldman’s menacing portrayal of Stansfield—the film explores themes of love, revenge, innocence, and the morality of violence. With its striking cinematography, haunting score, and richly layered storytelling, Léon: The Professional remains a timeless and iconic work that continues to captivate audiences worldwide.",
+      "image": "Images2/Leon.jpg",
+      "genre": "Crime, Thriller, Drama",
+      "themes": "Revenge, mentorship, the blurred lines of morality, redemption",
+      "director": "Luc Besson",
+      "writers": "Luc Besson",
+      "Cast": "",
+      "trailer": "vids/Leon  The Professional Trailer.mp4",
+      "releaseYear": 1994,
+      "duration": "1 hour 50 minutes",
+      "language": "English, French",
+      "ratings": [
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "averageRating": "1.4"
+    },
+    {
+      "id": "3",
+      "title": "Goodfellas",
+      "description": "Goodfellas is a 1990 American crime film directed by Martin Scorsese, widely regarded as one of the greatest gangster films ever made, praised for its dynamic storytelling, gritty realism, and electrifying performances. Starring Ray Liotta (Henry Hill), Robert De Niro (James Conway), Joe Pesci (Tommy DeVito), Lorraine Bracco (Karen Hill), and Paul Sorvino (Paul  Cicero), the film chronicles the rise and fall of Henry Hill, a small-time criminal who becomes deeply involved in the Mafia. Based on true events detailed in Nicholas Pileggi's book Wiseguy, the story follows Henry's journey from his youthful admiration of the mob to his immersion in a life of crime, marked by wealth, loyalty, and brutality, before spiralling into paranoia and betrayal. With its rapid pacing, iconic tracking shots, unforgettable dialogue, and Scorseses masterful direction, the film immerses viewers in the inner workings of organised crime while exploring themes of loyalty, greed, morality, and the consequences of ambition. Joe Pescis Oscar-winning performance as the volatile and unhinged Tommy DeVito, paired with an exceptional soundtrack featuring classic rock and jazz hits, cements Goodfellas as a cinematic masterpiece that remains influential and revered to this day.",
+      "image": "Images2/Goodfellas.jpg",
+      "genre": "Crime, Drama, Biography",
+      "themes": "Loyalty, betrayal, power, and the seductive appeal of crime",
+      "director": "Martin Scorsese",
+      "writers": "Nicholas Pileggi, Martin Scorsese",
+      "Cast": "",
+      "trailer": "vids/Goodfellas (1990) Official Trailer #1 - Martin Scorsese Movie",
+      "releaseYear": 1990,
+      "duration": "2 hours 26 minutes",
+      "language": "English",
+      "ratings": [
+        3
+      ],
+      "averageRating": "3.0"
+    },
+    {
+      "id": "4",
+      "title": "Scarface",
+      "description": "Scarface is a 1983 American crime drama directed by Brian De Palma and written by Oliver Stone, known for its unflinching portrayal of ambition, power, and the American Dream gone awry. Starring Al Pacino (Tony Montana), Steven Bauer (Manny Ribera), Michelle Pfeiffer (Elvira Hancock), and Robert Loggia (Frank Lopez), the film tells the story of Tony Montana, a ruthless Cuban immigrant who rises through the Miami drug underworld to become one of the most feared and powerful drug lords. As Tony's empire expands, so do his ambitions, but his violent temper and insatiable greed lead to a life of paranoia, betrayal, and ultimate destruction. Scarface is celebrated for Al Pacino's iconic and explosive performance as the ambitious, larger-than-life antihero, capturing Tony's descent from a determined immigrant seeking a better life to a man consumed by his own excesses and lust for power. The film explores themes of ambition, moral corruption, the consequences of unchecked power, and the dark side of the American Dream. With its intense action sequences, memorable dialogue, and Giorgio Moroder’s pulsating score, Scarface has achieved cult status, remaining a defining piece of cinema that continues to influence popular culture and the gangster film genre.",
+      "image": "Images2/Scarface.jpg",
+      "genre": "Crime, Drama",
+      "themes": "The American Dream, greed, power, and corruption",
+      "director": "Brian De Palma",
+      "writers": "Oliver Stone",
+      "Cast": "",
+      "trailer": "vids/Scarface (1983) Blu-Ray Release Trailer HD.mp4",
+      "releaseYear": 1983,
+      "duration": "2 hours 50 minutes",
+      "language": "English",
+      "ratings": [
+        5
+      ],
+      "averageRating": "5.0"
+    },
+    {
+      "id": "5",
+      "title": "Once Upon a Time in America",
+      "description": "Once Upon a Time in America is a 1984 epic crime drama directed by Sergio Leone, a masterful exploration of friendship, betrayal, and the passage of time within the violent world of organised crime. Starring Robert De Niro (David Noodles Aaronson), James Woods (Maximilian Bercovicz), Elizabeth McGovern (Deborah Gelly), and Joe Pesci (Frankie Monaldi), the film chronicles the life of Noodles, a Jewish gangster in New York City, as he reflects on his past and his lifelong relationships with his childhood friends turned partners in crime. Spanning several decades, the film weaves between the Prohibition era and the 1960s, portraying Noodles' rise to power, his tragic betrayals, and his search for redemption amidst the haunting memories of love, loyalty, and lost innocence. Renowned for its sprawling narrative, evocative cinematography, and Ennio Morricone hauntingly beautiful score, Once Upon a Time in America delves deeply into themes of time, regret, and the corrupting nature of ambition. Leones meticulous direction, combined with standout performances from the cast, creates a cinematic masterpiece that is as emotionally poignant as it is visually stunning, cementing its place as one of the greatest films in the crime genre.",
+      "image": "Images2/Once_Upon_a_Time_in_America.png",
+      "genre": "Crime, Drama",
+      "themes": "Friendship, betrayal, time, and regret",
+      "director": "Sergio Leone",
+      "writers": "Harry Grey (novel), Leonardo Benvenuti, Piero De Bernardi, and others",
+      "trailer": "vids/ONCE UPON A TIME IN AMERICA  (Extended Director's Cut) - Trailer - Sergio Leone, Robert De.mp4",
+      "releaseYear": 1984,
+      "duration": "3 hours 49 minutes",
+      "language": "English, Italian",
+      "ratings": [
+        5
+      ],
+      "averageRating": "5.0"
+    },
+    {
+      "id": "6",
+      "title": "Casino",
+      "description": "Casino is a 1995 American crime drama directed by Martin Scorsese, a gripping exploration of power, greed, and betrayal in the glittering yet corrupt world of Las Vegas casinos. Starring Robert De Niro (Sam 'Ace' Rothstein), Joe Pesci (Nicky Santoro), and Sharon Stone (Ginger McKenna), the film tells the story of Ace, a meticulous casino manager whose success and control begin to unravel due to the violent and unpredictable behaviour of his best friend Nicky and the destructive personal choices of his wife, Ginger. Based on true events, the narrative delves deep into the inner workings of the casino industry, the influence of organised crime, and the personal cost of ambition and excess. Renowned for its dynamic storytelling, Scorsese's signature direction, and Sharon Stone's Academy Award-nominated performance, Casino captures the rise and fall of power in a world where loyalty is fleeting and corruption runs rampant. With its compelling performances, stunning visuals, and a meticulously curated soundtrack, the film remains a timeless and riveting portrayal of human ambition and moral decay.",
+      "image": "Images2/Casino.png",
+      "genre": "Crime, Drama",
+      "themes": "Power, greed, betrayal, and corruption",
+      "director": "Martin Scorsese",
+      "writers": "Nicholas Pileggi (book and screenplay), Martin Scorsese (screenplay)",
+      "releaseYear": 1995,
+      "duration": "2 hours 58 minutes",
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "title": "Primal Fear",
+      "description": "Primal Fear is a 1996 American legal thriller directed by Gregory Hoblit, a gripping exploration of deception, justice, and moral ambiguity. Starring Richard Gere (Martin Vail), Edward Norton (Aaron Stampler), and Laura Linney (Janet Venable), the film follows a high-profile defence attorney who takes on the case of a shy altar boy accused of murdering a prominent archbishop. As the trial unfolds, shocking twists and revelations challenge the boundaries of truth and morality. Edward Norton’s breakout performance earned him an Academy Award nomination for his chilling portrayal of Aaron, a character whose complexity keeps audiences guessing until the very end. Known for its intense courtroom drama, compelling storytelling, and an unforgettable climax, Primal Fear remains a standout in the legal thriller genre.",
+      "image": "Images2/Primal_Fear.jpg",
+      "genre": "Crime, Thriller",
+      "themes": "Deception, justice, and morality",
+      "director": "Gregory Hoblit",
+      "writers": "William Diehl (novel), Steve Shagan (screenplay), Ann Biderman (screenplay)",
+      "releaseYear": 1996,
+      "duration": "2 hours 10 minutes",
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "title": "Mystic River",
+      "description": "Mystic River is a 2003 American neo-noir crime drama directed by Clint Eastwood, a deeply emotional and haunting exploration of trauma, guilt, and revenge. Starring Sean Penn (Jimmy Markum), Tim Robbins (Dave Boyle), and Kevin Bacon (Sean Devine), the film tells the story of three childhood friends whose lives are irrevocably altered by a tragic event in their past and reunited decades later by the murder of Jimmy’s daughter. With powerful performances—especially Sean Penn’s Academy Award-winning portrayal of a grieving father—the film masterfully examines the ripple effects of trauma and the devastating consequences of buried secrets. Renowned for its sombre atmosphere, poignant storytelling, and gripping suspense, Mystic River is a powerful meditation on human frailty and justice.",
+      "image": "images2/Mystic_River.jpg",
+      "genre": "Crime, Drama",
+      "themes": "Trauma, guilt, revenge, and justice",
+      "director": "Clint Eastwood",
+      "writers": "Dennis Lehane (novel), Brian Helgeland (screenplay)",
+      "releaseYear": 2003,
+      "duration": "2 hours 18 minutes",
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "title": "The Shawshank Redemption",
+      "description": "The Shawshank Redemption is a 1994 American drama film directed by Frank Darabont, an enduring tale of hope, resilience, and redemption. Starring Tim Robbins (Andy Dufresne) and Morgan Freeman (Ellis 'Red' Redding), the film follows the story of Andy, a banker wrongly convicted of murder, who befriends fellow inmate Red while enduring the brutalities of life in Shawshank State Prison. As the years pass, Andy’s quiet determination and acts of defiance inspire those around him and pave the way for an extraordinary escape. Based on a novella by Stephen King, the film is celebrated for its powerful performances, poignant themes, and timeless message about the enduring power of hope. Widely regarded as one of the greatest films ever made, it has become a beloved classic with a profound emotional impact on audiences worldwide.",
+      "image": "images2/Shawshank.jpg",
+      "genre": "Drama",
+      "themes": "Hope, resilience, and redemption",
+      "director": "Frank Darabont",
+      "writers": "Stephen King (novella), Frank Darabont (screenplay)",
+      "releaseYear": 1994,
+      "duration": "2 hours 22 minutes",
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "title": "Heat",
+      "description": "Heat is a 1995 American crime thriller directed by Michael Mann, a masterful study of crime, loyalty, and obsession. Starring Al Pacino (Lt. Vincent Hanna), Robert De Niro (Neil McCauley), and Val Kilmer (Chris Shiherlis), the film follows the intense cat-and-mouse game between a meticulous career criminal and a relentless detective as their lives intertwine amidst a series of high-stakes heists in Los Angeles. Known for its epic bank robbery sequence, dynamic performances, and a memorable face-off between Pacino and De Niro, Heat explores the personal sacrifices and moral complexities of its characters. With its stylised visuals, thrilling action, and intricate narrative, the film is celebrated as a landmark in the crime genre and a testament to Michael Mann’s visionary direction.",
+      "image": "images2/Heat.jpg",
+      "genre": "Crime, Thriller",
+      "themes": "Crime, loyalty, and obsession",
+      "director": "Michael Mann",
+      "writers": "Michael Mann",
+      "releaseYear": 1995,
+      "duration": "2 hours 50 minutes",
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "title": "Carlito's Way",
+      "description": "Carlito’s Way is a 1993 American crime drama directed by Brian De Palma, a gripping tale of ambition, loyalty, and the struggle for redemption. Starring Al Pacino (Carlito Brigante), Sean Penn (David Kleinfeld), and Penelope Ann Miller (Gail), the film follows Carlito, a former drug dealer recently released from prison, as he attempts to leave his criminal past behind and start a new life. Despite his best intentions, Carlito finds himself drawn back into the dangerous world he seeks to escape, torn between his dreams of freedom and the loyalty he feels to those around him. Known for Al Pacino’s compelling performance, De Palma’s stylish direction, and an unforgettable climax, Carlito’s Way is a tragic and powerful exploration of the cost of one man’s redemption.",
+      "image": "images2/Carlito's_Way.jpg",
+      "genre": "Crime, Drama",
+      "themes": "Ambition, loyalty, and redemption",
+      "director": "Brian De Palma",
+      "writers": "Edwin Torres (novel), David Koepp (screenplay)",
+      "releaseYear": 1993,
+      "duration": "2 hours 24 minutes",
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "title": "American History X",
+      "description": "American History X is a 1998 American drama directed by Tony Kaye, a harrowing and thought-provoking examination of racism, hatred, and redemption. Starring Edward Norton (Derek Vinyard) and Edward Furlong (Danny Vinyard), the film follows Derek, a former neo-Nazi who, after serving time in prison, seeks to reform and prevent his younger brother from following the same destructive path. Through raw performances—especially Norton’s Oscar-nominated portrayal of Derek—the film delivers a powerful and uncompromising look at the roots of hate and the possibility of change. Known for its intense narrative, striking cinematography, and emotional depth, American History X is a deeply impactful work that continues to spark critical conversations about prejudice and the human capacity for transformation.",
+      "image": "Images2/American_History.png",
+      "genre": "Drama",
+      "themes": "Racism, hatred, and redemption",
+      "director": "Tony Kaye",
+      "writers": "David McKenna",
+      "releaseYear": 1998,
+      "duration": "1 hour 59 minutes",
+      "language": "English"
+    },
+    {
+      "id": "6",
+      "title": "Donnie Brasco",
+      "description": "Donnie Brasco is a 1997 American crime drama directed by Mike Newell, a gripping exploration of loyalty, betrayal, and the human cost of undercover work. Starring Johnny Depp (Joe Pistone/Donnie Brasco) and Al Pacino (Benjamin 'Lefty' Ruggiero), the film is based on the true story of an FBI agent who infiltrates the Mafia by posing as a jewel thief. As Joe develops a deep bond with Lefty, a low-level mobster, he struggles to maintain his double life and wrestles with the moral consequences of his deception. Known for its nuanced performances—especially Pacino’s heartfelt portrayal of a man seeking significance—Donnie Brasco offers an intense and emotional look at the blurred lines between duty and friendship. With its compelling narrative and realistic portrayal of mob life, the film remains a standout in the crime genre.",
+      "image": "images2/Donnie.jpg",
+      "genre": "Crime, Drama",
+      "themes": "Loyalty, betrayal, and morality",
+      "director": "Mike Newell",
+      "writers": "Joseph D. Pistone (book), Paul Attanasio (screenplay)",
+      "releaseYear": 1997,
+      "duration": "2 hours 7 minutes",
+      "language": "English"
+    }
+  ],
+  "warMovies": [
+    {
+      "id": "6",
+      "title": "All Quiet on the Western Front",
+      "description": "All Quiet on the Western Front (German: Im Westen nichts Neues, lit. 'Nothing New in the West') is a 2022 German epic anti-war film based on the 1929 novel by Erich Maria Remarque. It is the third film adaptation of the book, after the 1930 and 1979 versions. Co-written, directed and co-produced by Edward Berger, it stars Felix Kammerer, Albrecht Schuch, Daniel Brühl, Sebastian Hülk, Aaron Hilmer, Edin Hasanovic, and Devid Striesow. Set during World War I, it follows the life of an idealistic young German soldier named Paul Bäumer. After enlisting in the German Army with his friends, Bäumer finds himself exposed to the realities of war, shattering his early hopes of becoming a hero as he does his best to survive. The film adds a parallel storyline not found in the book, which follows the armistice negotiations to end the war.",
+      "image": "Images2/All_quiet_on_the_western_front_(2022_film).jpg",
+      "genre": "War, Drama, Historical",
+      "themes": "The horrors of war, camaraderie, loss of innocence, and the human cost of conflict",
+      "director": "Edward Berger",
+      "writers": "Edward Berger, Lesley Paterson, Ian Stokell",
+      "Cast": "",
+      "trailer": "vids/all.mp4",
+      "releaseYear": 2022,
+      "duration": "2 hours 28 minutes",
+      "language": "German (with subtitles)",
+      "ratings": [
+        3,
+        4,
+        3,
+        4,
+        5,
+        5,
+        4,
+        5
+      ],
+      "averageRating": "4.1"
+    },
+    
+    {
+      "id": "7",
+      "title": "Deer Hunter",
+      "description": "The Deer Hunter is a 1978 American epic war drama directed by Michael Cimino, starring Robert De Niro, Christopher Walken, Meryl Streep, John Savage, and John Cazale. The film tells the story of three friends from a small Pennsylvania steelworking town—Michael, Nick, and Steven—whose lives are forever changed by the Vietnam War. Beginning with their close-knit community and deer-hunting rituals, the narrative transitions to the harrowing experiences they face as soldiers in Vietnam, including a brutal Russian roulette scene that epitomises the psychological trauma of war. Upon returning home, the friends struggle to cope with the scars of their wartime experiences, with the war leaving an indelible mark on their lives and relationships. The film is renowned for its unflinching depiction of war’s impact on individuals and communities, earning it critical acclaim and five Academy Awards, including Best Picture.",
+      "image": "Images2/The_Deer_Hunter_poster.jpg",
+      "genre": "War, Drama",
+      "themes": "Friendship, sacrifice, and the psychological impact of war",
+      "director": "Michael Cimino",
+      "writers": "Michael Cimino, Deric Washburn",
+      "Cast": "",
+      "trailer": "vids/deer.mp4",
+      "releaseYear": 1978,
+      "duration": "3 hours 3 minutes",
+      "language": "English",
+      "ratings": [
+        5
+      ],
+      "averageRating": "5.0"
+    },
+    {
+      "id": "8",
+      "title": "Enemy at the Gates",
+      "description": "Enemy at the Gates is a 2001 war film directed by Jean-Jacques Annaud, starring Jude Law, Ed Harris, Rachel Weisz, Joseph Fiennes, and Bob Hoskins. Set during the Battle of Stalingrad in World War II, the film follows the story of Vasily Zaitsev (Law), a Soviet sniper whose extraordinary marksmanship becomes a symbol of hope for the embattled Red Army. As Vasily’s fame grows, he becomes the target of a German sniper, Major Erwin König (Harris), leading to a deadly game of cat and mouse between the two sharpshooters. Amidst the brutality of war, the film also explores Vasily’s relationships, particularly his romance with Tania Chernova (Weisz) and friendship with political officer Danilov (Fiennes), who helps elevate Vasily to hero status through propaganda. The film provides a gritty depiction of the horrors of war and the psychological toll of combat, framed within one of history’s most ferocious battles.",
+      "image": "Images2/Enemy_at_the_gates_ver2.jpg",
+      "genre": "War, Drama",
+      "themes": "Heroism, strategy, and the personal cost of war",
+      "director": "Jean-Jacques Annaud",
+      "writers": "Jean-Jacques Annaud, Alain Godard",
+      "Cast": "",
+      "trailer": "vids/enemy.mp4",
+      "releaseYear": 2001,
+      "duration": "2 hours 11 minutes",
+      "language": "English"
+    },
+    {
+      "id": "9",
+      "title": "Saving Private Ryan",
+      "description": "Saving Private Ryan is a 1998 American epic war film directed by Steven Spielberg and starring Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns, and Barry Pepper. Set during the aftermath of the D-Day invasion in World War II, the story follows Captain John H. Miller (Hanks) and his squad as they embark on a perilous mission to locate and bring home Private James Francis Ryan (Damon), whose three brothers have been killed in combat. The film begins with a harrowing depiction of the Omaha Beach landing, vividly portraying the brutal realities of war. As the squad ventures deeper into war-torn France, they face moral dilemmas, personal losses, and questions about the value of one life against the sacrifices made to save it. Renowned for its visceral realism and emotional depth, the film earned critical acclaim and won five Academy Awards, including Best Director, and is considered one of the greatest war films ever made.",
+      "image": "Images2/Saving_Private_Ryan_poster.jpg",
+      "genre": "War, Drama",
+      "themes": "Brotherhood, sacrifice, and the brutality of war",
+      "director": "Steven Spielberg",
+      "writers": "Robert Rodat",
+      "Cast": "",
+      "trailer": "vids/saving.mp4",
+      "releaseYear": 1998,
+      "duration": "2 hours 49 minutes",
+      "language": "English"
+    },
+    {
+      "id": "10",
+      "title": "Apocalypse Now",
+      "description": "Apocalypse Now is a 1979 American epic war film directed by Francis Ford Coppola, starring Martin Sheen, Marlon Brando, Robert Duvall, and Dennis Hopper. Loosely based on Joseph Conrad's novella Heart of Darkness, the film is set during the Vietnam War and follows Captain Benjamin L. Willard (Sheen) on a secret mission to assassinate Colonel Walter E. Kurtz (Brando), a rogue officer who has gone insane and established a cult-like following deep in the Cambodian jungle. As Willard's journey takes him upriver, he descends into the psychological horrors of war and human depravity, encountering surreal and harrowing episodes that blur the line between reality and madness. The film is renowned for its stunning cinematography, haunting performances, and exploration of the moral and existential chaos of war. Widely regarded as a masterpiece, Apocalypse Now won the Palme d'Or at Cannes and is considered one of the greatest films of all time.",
+      "image": "Images2/Apocalypse_Now_poster.jpg",
+      "genre": "War, Drama, Psychological",
+      "themes": "Madness, war atrocities, and the moral ambiguity of war",
+      "director": "Francis Ford Coppola",
+      "writers": "John Milius, Francis Ford Coppola",
+      "Cast": "",
+      "trailer": "vids/apocalyps.mp4",
+      "releaseYear": 1979,
+      "duration": "3 hours 22 minutes",
+      "language": "English"
+    },
+    {
+      "id": "10",
+      "title": "Full Metal Jacket",
+      "description": "Full Metal Jacket is a 1987 war drama directed by Stanley Kubrick, a searing exploration of the dehumanising effects of war and military training. Starring Matthew Modine (Private Joker), Vincent D’Onofrio (Private Pyle), and R. Lee Ermey (Gunnery Sergeant Hartman), the film follows a group of recruits through the brutal rigours of Marine boot camp and later into the horrors of the Vietnam War. Split into two distinct parts, the story contrasts the psychological toll of training with the physical and moral devastation of combat. Renowned for its unflinching realism, sharp dialogue, and Kubrick’s meticulous direction, Full Metal Jacket remains a powerful and haunting commentary on the duality of man and the futility of war.",
+      "image": "images2/Full_Metal_Jacket_poster.jpg",
+      "genre": "War, Drama",
+      "themes": "Dehumanisation, war, and morality",
+      "director": "Stanley Kubrick",
+      "writers": "Gustav Hasford (novel), Stanley Kubrick, Michael Herr",
+      "releaseYear": 1987,
+      "duration": "1 hour 56 minutes",
+      "language": "English"
+    },
+    {
+      "id": "10",
+      "title": "Platoon",
+      "description": "Platoon is a 1986 war drama directed by Oliver Stone, a harrowing and deeply personal account of the Vietnam War. Starring Charlie Sheen (Chris Taylor), Tom Berenger (Sgt. Barnes), and Willem Dafoe (Sgt. Elias), the film portrays the conflict through the eyes of Chris, a young recruit torn between two sergeants with opposing moral compasses. Based on Stone's own experiences as a soldier, the film explores the brutality of combat, the corruption of ideals, and the psychological toll of war. Winner of four Academy Awards, including Best Picture and Best Director, Platoon is celebrated for its raw realism, emotional depth, and powerful performances, making it one of the most iconic and enduring war films in cinema history.",
+      "image": "images2/Platoon.jpg",
+      "genre": "War, Drama",
+      "themes": "Conflict, morality, and the psychological toll of war",
+      "director": "Oliver Stone",
+      "writers": "Oliver Stone",
+      "releaseYear": 1986,
+      "duration": "2 hours",
+      "language": "English"
+    },
+    {
+      "id": "10",
+      "title": "The Hurt Locker",
+      "description": "The Hurt Locker is a 2008 war thriller directed by Kathryn Bigelow, an intense and gripping portrayal of the psychological effects of modern warfare. Starring Jeremy Renner (Staff Sergeant William James), Anthony Mackie (Sergeant JT Sanborn), and Brian Geraghty (Specialist Owen Eldridge), the film follows an elite bomb disposal unit in Iraq as they navigate the deadly tasks of defusing explosives under extreme pressure. With its raw realism and nerve-wracking tension, the film delves into themes of courage, addiction to danger, and the human cost of war. Winner of six Academy Awards, including Best Picture and Best Director, The Hurt Locker is a powerful and unflinching exploration of the complexity of soldiers' experiences in a modern combat zone.",
+      "image": "images2/Hurt.jpg",
+      "genre": "War, Thriller",
+      "themes": "Courage, danger, and the psychological toll of war",
+      "director": "Kathryn Bigelow",
+      "writers": "Mark Boal",
+      "releaseYear": 2008,
+      "duration": "2 hours 11 minutes",
+      "language": "English"
+    },
+    {
+      "id": "10",
+      "title": "The Thin Red Line",
+      "description": "The Thin Red Line is a 1998 epic war drama directed by Terrence Malick, a poetic and meditative exploration of war, humanity, and the natural world. Starring Sean Penn (First Sgt. Edward Welsh), Jim Caviezel (Private Witt), and Nick Nolte (Lt. Col. Gordon Tall), the film tells the story of American soldiers fighting the Battle of Guadalcanal during World War II. Through its ensemble cast and reflective narrative, the film examines the personal struggles and inner lives of the soldiers as they face the brutality of war. Known for its breathtaking cinematography, philosophical themes, and haunting score, The Thin Red Line is a profound and deeply moving work that redefines the war genre with its focus on the spiritual and existential aspects of conflict.",
+      "image": "images2/The_Thin_Red_Line_Poster.jpg",
+      "genre": "War, Drama",
+      "themes": "Humanity, nature, and the spiritual cost of war",
+      "director": "Terrence Malick",
+      "writers": "James Jones (novel), Terrence Malick",
+      "releaseYear": 1998,
+      "duration": "2 hours 50 minutes",
+      "language": "English"
+    },
+    {
+      "id": "10",
+      "title": "Letters from Iwo Jima",
+      "description": "Letters from Iwo Jima is a 2006 war drama directed by Clint Eastwood, a poignant and humanising portrayal of the Battle of Iwo Jima from the perspective of Japanese soldiers. Starring Ken Watanabe (General Kuribayashi) and Kazunari Ninomiya (Saigo), the film focuses on the experiences of the Japanese defenders as they face overwhelming odds and grapple with themes of duty, sacrifice, and humanity. Told through a series of flashbacks and letters written by the soldiers, the film offers a unique and empathetic perspective on one of World War II's most brutal battles. Acclaimed for its emotional depth, historical accuracy, and stunning cinematography, Letters from Iwo Jima received multiple accolades, including an Academy Award for Best Sound Editing and nominations for Best Picture and Best Director.",
+      "image": "Images2/Letters_from_Iwo_Jima.jpg",
+      "genre": "War, Drama",
+      "themes": "Duty, sacrifice, and humanity",
+      "director": "Clint Eastwood",
+      "writers": "Iris Yamashita, Tadamichi Kuribayashi (letters)",
+      "releaseYear": 2006,
+      "duration": "2 hours 21 minutes",
+      "language": "Japanese, English"
+    },
+    {
+      "id": "10",
+      "title": "Empire of the Sun",
+      "description": "Empire of the Sun is a 1987 war drama directed by Steven Spielberg, a poignant and visually stunning tale of survival and coming of age during World War II. Starring Christian Bale (Jim 'Jamie' Graham), John Malkovich (Basie), and Miranda Richardson (Mrs. Victor), the film follows young Jim, a privileged British boy living in Shanghai, whose life is upended when he is separated from his family and sent to a Japanese internment camp. As he navigates the harsh realities of war, Jim’s resilience and resourcefulness shine through, offering a deeply emotional and human perspective on the impact of conflict. Known for its breathtaking cinematography, John Williams’ moving score, and Christian Bale’s remarkable breakout performance, Empire of the Sun is a powerful and unforgettable exploration of innocence, loss, and survival.",
+      "image": "images2/Empire_of_the_Sun.jpg",
+      "genre": "War, Drama",
+      "themes": "Innocence, survival, and loss",
+      "director": "Steven Spielberg",
+      "writers": "J.G. Ballard (novel), Tom Stoppard (screenplay)",
+      "releaseYear": 1987,
+      "duration": "2 hours 33 minutes",
+      "language": "English"
+    }
+    
+    
+  
+
+    
+
+
+
+  ],
+  "fantasyMovies": [
+    {
+      "id": "11",
+      "title": "Perfume: The Story of a Murderer",
+      "description": "Perfume: The Story of a Murderer is a 2006 psychological thriller directed by Tom Tykwer, based on Patrick Süskind’s 1985 novel of the same name. Set in 18th-century France, the film stars Ben Whishaw as Jean-Baptiste Grenouille, a man born with an extraordinary sense of smell but devoid of personal scent. Obsessed with capturing the essence of beauty, Grenouille becomes fixated on creating the perfect perfume, using the scent of young women as his key ingredient. His obsession drives him to commit a series of murders, culminating in a darkly poetic exploration of desire, identity, and morality. Featuring standout performances by Alan Rickman, Rachel Hurd-Wood, and Dustin Hoffman, the film combines lush visuals with a chilling narrative, weaving a tale that is as haunting as it is mesmerising.",
+      "image": "Images2/Perfume_poster.jpg",
+      "genre": "Fantasy, Drama, Thriller",
+      "themes": "Obsession, the power of the senses, the human condition, morality",
+      "director": "Tom Tykwer",
+      "writers": "Andrew Birkin, Bernd Eichinger, Tom Tykwer",
+      "Cast": "",
+      "trailer": "vids/perfume.mp4",
+      "releaseYear": 2006,
+      "duration": "2 hours 27 minutes",
+      "language": "English",
+      "ratings": [
+        4,
+        5,
+        5,
+        5,
+        2,
+        1,
+        4,
+        4,
+        3,
+        4,
+        3,
+        5
+      ],
+      "averageRating": "3.8"
+    },
+    {
+      "id": "12",
+      "title": "Interview with the Vampire",
+      "description": "Interview with the Vampire is a 1994 gothic horror film directed by Neil Jordan, based on Anne Rice’s 1976 novel of the same name. The film stars Brad Pitt as Louis de Pointe du Lac, a man who recounts his life story as a vampire to a reporter (Christian Slater). Transformed into a vampire in 1791 by the charismatic and manipulative Lestat de Lioncourt (Tom Cruise), Louis struggles with his new existence, tormented by his lingering humanity and moral conflict over taking human lives. Their complicated relationship becomes even more strained when Lestat turns a young girl, Claudia (Kirsten Dunst), into a vampire, trapping her in a child’s body forever. Spanning centuries, the story explores themes of immortality, love, loneliness, and betrayal, against a backdrop of richly atmospheric settings. Praised for its performances, particularly by Cruise and Dunst, the film has become a classic of the vampire genre, blending horror with a deep sense of melancholy and beauty.",
+      "image": "Images2/InterviewwithaVampireMoviePoste.jpeg",
+      "genre": "Fantasy, Horror, Drama",
+      "themes": "Immortality, loneliness, morality, and the nature of humanity",
+      "director": "Neil Jordan",
+      "writers": "Anne Rice (novel and screenplay)",
+      "Cast": "",
+      "trailer": "vids/interview.mp4",
+      "releaseYear": 1994,
+      "duration": "2 hours 3 minutes",
+      "language": "English",
+      "ratings": [
+        4,
+        4,
+        3,
+        5,
+        5
+      ],
+      "averageRating": "4.2"
+    },
+    {
+      "id": "13",
+      "title": "Star Wars",
+      "description": "The Star Wars series is one of the most iconic and influential franchises in cinematic history, blending science fiction with elements of fantasy, mythology, and adventure. Created by George Lucas, the saga began with the release of the original film, Star Wars: Episode IV – A New Hope, in 1977. The franchise has since expanded into an expansive universe, including movies, TV series, novels, comics, and games, captivating audiences for decades. Set in a galaxy 'far, far away,' Star Wars explores the eternal struggle between good and evil, embodied by the battle between the Jedi and the Sith. The story intertwines themes of heroism, redemption, familial bonds, and the power of hope. Central to the saga is the Skywalker family, whose choices and destinies shape the fate of the galaxy.",
+      "image": "Images2/Star_Wars_Episode_III_Revenge_of_the_Sith_poster.jpg",
+      "genre": "Fantasy, Sci-Fi, Action",
+      "themes": "Betrayal, power, redemption, and the fall from grace",
+      "director": "George Lucas",
+      "writers": "George Lucas",
+      "Cast": "",
+      "trailer": "vids/start wars.mp4",
+      "releaseYear": 2005,
+      "duration": "2 hours 20 minutes",
+      "language": "English",
+      "ratings": [
+        4,
+        1,
+        5
+      ],
+      "averageRating": "3.3"
+    },
+    {
+      "id": "14",
+      "title": "Harry Potter",
+      "description": "The Harry Potter series is a cultural phenomenon that has enchanted readers and viewers worldwide with its blend of magic, adventure, and themes of friendship and bravery. Created by J.K. Rowling, the story began with the publication of Harry Potter and the Philosopher's Stone (titled ...and the Sorcerer's Stone in the U.S.) in 1997. The series spans seven books and eight blockbuster films, along with a rich expansion into spin-offs, plays, and the Wizarding World franchise. Set in a world where magic exists alongside the mundane, the story follows the life of Harry Potter, an orphaned boy who discovers on his 11th birthday that he is a wizard. He enrolls at Hogwarts School of Witchcraft and Wizardry, where he befriends Ron Weasley and Hermione Granger and embarks on a journey that intertwines personal growth, mystery, and a battle against dark forces led by the dark wizard Lord Voldemort.",
+      "image": "Images2/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg",
+      "genre": "Fantasy, Adventure, Drama",
+      "themes": "Rebellion, unity, the power of truth, and coming of age",
+      "director": "David Yates",
+      "writers": "Michael Goldenberg (screenplay), J.K. Rowling (novel)",
+      "Cast": "",
+      "trailer": "vids/Harry Potter and the Sorcerer's Stone (2001) Official Trailer - Daniel Radcliffe Movie HD.mp4",
+      "releaseYear": 2007,
+      "duration": "2 hours 18 minutes",
+      "language": "English",
+      "ratings": [
+        5
+      ],
+      "averageRating": "5.0"
+    },
+    {
+      "id": "15",
+      "title": "The Lord of the Rings",
+      "description": "The Lord of the Rings is an epic fantasy film trilogy directed by Peter Jackson, based on J.R.R. Tolkien's iconic novels. Spanning The Fellowship of the Ring (2001), The Two Towers (2002), and The Return of the King (2003), the story follows Frodo Baggins (Elijah Wood), a hobbit tasked with destroying the One Ring, a powerful artifact forged by the Dark Lord Sauron. Alongside the Fellowship—including Gandalf (Ian McKellen), Aragorn (Viggo Mortensen), and Samwise Gamgee (Sean Astin)—Frodo embarks on a perilous journey across Middle-earth to Mount Doom, battling armies, inner turmoil, and the corrupting power of the Ring. Known for its groundbreaking visual effects, stunning landscapes, and emotional depth, the trilogy explores themes of friendship, courage, and sacrifice. It garnered widespread acclaim, with The Return of the King winning 11 Academy Awards, cementing its place as one of the greatest film series of all time.",
+      "image": "Images2/Lord_Rings_Fellowship_Ring.jpg",
+      "genre": "Fantasy, Adventure, Drama",
+      "themes": "Friendship, sacrifice, the struggle between good and evil",
+      "director": "Peter Jackson",
+      "writers": "Fran Walsh, Philippa Boyens, Peter Jackson, J.R.R. Tolkien (novel)",
+      "Cast": "",
+      "trailer": "vids/lord.mp4",
+      "releaseYear": 2001,
+      "duration": "2 hours 58 minutes",
+      "language": "English",
+      "ratings": [
+        5
+      ],
+      "averageRating": "5.0"
+    },
+    {
+      "id": "",
+      "title": "Big Fish",
+      "description": "Big Fish is a 2003 fantasy drama directed by Tim Burton, a visually stunning and heartfelt exploration of storytelling, memory, and the bonds between father and son. Starring Ewan McGregor (Young Edward Bloom), Albert Finney (Older Edward Bloom), and Billy Crudup (Will Bloom), the film tells the story of Edward, a charismatic man known for his larger-than-life tales, as his estranged son Will attempts to uncover the truth behind his father's fantastical stories during Edward's final days. Through a series of whimsical flashbacks and magical realism, the film delves into themes of love, legacy, and the nature of truth. With its vivid imagery, emotionally resonant performances, and Danny Elfman’s enchanting score, Big Fish is a poignant and imaginative celebration of life and storytelling.",
+      "image": "images2/Big_Fish_movie_poster.png",
+      "genre": "Fantasy, Drama",
+      "themes": "Storytelling, legacy, and family",
+      "director": "Tim Burton",
+      "writers": "Daniel Wallace (novel), John August (screenplay)",
+      "releaseYear": 2003,
+      "duration": "2 hours 5 minutes",
+      "language": "English"
+    },
+    {
+      "id": "",
+      "title": "Bram Stoker's Dracula",
+      "description": "Bram Stoker's Dracula is a 1992 gothic horror romance directed by Francis Ford Coppola, a visually opulent and emotionally intense adaptation of the classic vampire tale. Starring Gary Oldman (Count Dracula), Winona Ryder (Mina Murray), Anthony Hopkins (Professor Van Helsing), and Keanu Reeves (Jonathan Harker), the film follows Dracula's centuries-spanning quest for love and vengeance after encountering Mina, who bears a striking resemblance to his deceased wife. Combining lush cinematography, elaborate costumes, and a haunting score by Wojciech Kilar, the film explores themes of love, immortality, and desire. Gary Oldman’s mesmerising performance as the tragic and seductive Dracula, coupled with Coppola’s atmospheric direction, makes Bram Stoker's Dracula a bold and unforgettable reinterpretation of the legendary vampire myth.",
+      "image": "images2/Bram.jpg",
+      "genre": "Fantasy,Horror, Romance",
+      "themes": "Love, immortality, and desire",
+      "director": "Francis Ford Coppola",
+      "writers": "Bram Stoker (novel), James V. Hart (screenplay)",
+      "releaseYear": 1992,
+      "duration": "2 hours 8 minutes",
+      "language": "English"
+    }
+   
+    
+    
+    
+
+
+
+
+
+
+
+
+  ],
+  "scifiMovies": [
+    {
+      "id": "16",
+      "title": "Twelve Monkeys",
+      "description": "12 Monkeys (1995) delivers a riveting sci-fi story about a convict, James Cole (Bruce Willis), who travels from a dystopian future back to the 1990s to gather clues about a virus that nearly destroys humanity. As Cole struggles to convince others he’s not delusional, he finds an unexpected ally in psychiatrist Kathryn Railly (Madeleine Stowe) and faces off against the erratic Jeffrey Goines (Brad Pitt), whose role in the looming catastrophe is shrouded in mystery. The film’s captivating twists, unforgettable performances, and tense atmosphere have cemented its status as a cult favorite. Placing 12 Monkeys fifth on your list of the best sci-fi movies of all time highlights its enduring power to hook audiences, provoke debate, and stand out from more conventional entries in the genre.",
+      "image": "Images2/Twelve_monkeysmp.jpg",
+      "genre": "Sci-Fi, Thriller, Mystery",
+      "themes": "Time travel, pandemics, mental health, dystopia",
+      "director": "Terry Gilliam",
+      "writers": "David Peoples, Janet Peoples",
+      "Cast": "",
+      "trailer": "vids/12 Monkeys.mp4",
+      "releaseYear": 1995,
+      "duration": "2 hours 9 minutes",
+      "language": "English",
+      "ratings": [
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5
+      ],
+      "averageRating": "4.1"
+    },
+    {
+      "id": "17",
+      "title": "A.I. Artificial Intelligence",
+      "description": "A.I. Artificial Intelligence is a 2001 science fiction drama directed by Steven Spielberg, based on an idea by Stanley Kubrick. Starring Haley Joel Osment, Jude Law, and Frances O’Connor, the film is set in a future where advanced robots, known as Mechas, coexist with humans. The story follows David (Osment), a highly advanced robotic boy programmed to love, who is adopted by a grieving family. When he is abandoned, David embarks on a poignant journey to become real  so he can regain the love of his human mother. Along the way, he encounters various characters, including Gigolo Joe (Law), a charismatic robot companion. The film explores profound themes of humanity, love, and identity, blending emotional depth with stunning visuals. Though divisive upon release, it has since gained appreciation for its ambitious storytelling and philosophical depth.",
+      "image": "Images2/AI_Poster.jpg",
+      "genre": "Sci-Fi, Drama, Adventure",
+      "themes": "Humanity, artificial intelligence, love, existentialism",
+      "director": "Steven Spielberg",
+      "writers": "Steven Spielberg, Ian Watson",
+      "Cast": "",
+      "trailer": "vids/A.I. Artificial Intelligence - Official® Trailer [HD].mp4",
+      "releaseYear": 2001,
+      "duration": "2 hours 26 minutes",
+      "language": "English",
+      "ratings": [
+        3
+      ],
+      "averageRating": "3.0"
+    },
+    {
+      "id": "18",
+      "title": "Alien",
+      "description": "Alien is a 1979 science fiction horror film directed by Ridley Scott, starring Sigourney Weaver, Tom Skerritt, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, and Yaphet Kotto. Set aboard the commercial spaceship Nostromo, the story follows the crew as they investigate a distress signal from a mysterious planet. Upon landing, they encounter a deadly alien organism that begins to stalk and kill them one by one. At the heart of the terror is Ripley (Weaver), who emerges as the film's resilient and resourceful protagonist. Known for its atmospheric tension, groundbreaking special effects, and the iconic design of the Xenomorph by H.R. Giger, Alien redefined the sci-fi and horror genres. Widely regarded as a masterpiece, it spawned a successful franchise and cemented its place as one of the greatest films of all time.",
+      "image": "Images2/Alien_movie_poster.jpg",
+      "genre": "Sci-Fi, Horror",
+      "themes": "Isolation, survival, fear, the unknown",
+      "director": "Ridley Scott",
+      "writers": "Dan O'Bannon, Ronald Shusett",
+      "Cast": "",
+      "trailer": "vids/Alien Trailer HD (Original 1979 Ridley Scott Film) Sigourney Weaver.mp4",
+      "releaseYear": 1979,
+      "duration": "1 hour 57 minutes",
+      "language": "English"
+    },
+    {
+      "id": "19",
+      "title": "The Matrix",
+      "description": "The Matrix is a 1999 science fiction action film written and directed by the Wachowskis, starring Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, and Hugo Weaving. The film follows Thomas Anderson (Reeves), a computer programmer who discovers that the reality he knows is a simulated world controlled by intelligent machines that use humans as an energy source. Guided by Morpheus (Fishburne) and Trinity (Moss), Anderson embraces his destiny as Neo the chosen one prophesied to liberate humanity from the Matrix. The film combines philosophical questions about reality, free will, and control with groundbreaking visual effects, including the iconic bullet time sequences. Praised for its innovative action scenes and deep storytelling, The Matrix became a cultural phenomenon, inspiring a franchise that includes sequels, animated spin-offs, and video games.",
+      "image": "Images2/The_Matrix_Poster.jpg",
+      "genre": "Sci-Fi, Action",
+      "themes": "Reality vs. illusion, freedom, artificial intelligence",
+      "director": "The Wachowskis",
+      "writers": "Lana Wachowski, Lilly Wachowski",
+      "Cast": "",
+      "trailer": "vids/The Matrix (1999) Official Trailer 1 - Sci-Fi Action Movie.mp4",
+      "releaseYear": 1999,
+      "duration": "2 hours 16 minutes",
+      "language": "English"
+    },
+    {
+      "id": "20",
+      "title": "Blade Runner",
+      "description": "Blade Runner is a 1982 neo-noir science fiction film directed by Ridley Scott, starring Harrison Ford, Rutger Hauer, Sean Young, and Edward James Olmos. Set in a dystopian future Los Angeles in 2019, the story follows Rick Deckard (Ford), a Blade Runner tasked with hunting down rogue replicants—bioengineered humanoids designed for labour and pleasure—who have escaped to Earth. As Deckard tracks the replicants, led by the enigmatic Roy Batty (Hauer), he grapples with questions of humanity, identity, and morality, particularly after forming a connection with Rachael (Young), a replicant unaware of her true nature. Known for its atmospheric visuals, groundbreaking production design, and philosophical depth, Blade Runner is widely regarded as a masterpiece of science fiction cinema, influencing countless films and becoming a cornerstone of the cyberpunk genre.",
+      "image": "Images2/Blade_Runner_(1982_poster).png",
+      "genre": "Sci-Fi, Neo-Noir",
+      "themes": "Identity, humanity, ethics of artificial intelligence",
+      "director": "Ridley Scott",
+      "writers": "Hampton Fancher, David Peoples",
+      "trailer": "vids/Blade Runner (1982) Official Trailer - Ridley Scott, Harrison Ford Movie.mp4",
+      "releaseYear": 1982,
+      "duration": "1 hour 57 minutes",
+      "language": "English",
+      "ratings": [
+        5
+      ],
+      "averageRating": "5.0"
+    },
+    {
+      "id": "",
+      "title": "Back to the Future",
+      "description": "Back to the Future is a 1985 sci-fi adventure comedy directed by Robert Zemeckis, a timeless classic that blends humour, heart, and thrilling time-travel escapades. Starring Michael J. Fox (Marty McFly), Christopher Lloyd (Dr. Emmett 'Doc' Brown), Lea Thompson (Lorraine Baines-McFly), and Crispin Glover (George McFly), the film follows teenager Marty, who accidentally travels back to 1955 in a DeLorean-turned-time-machine invented by the eccentric Doc Brown. Stranded in the past, Marty must ensure his parents fall in love to preserve his future, all while trying to find a way back to his own time. Known for its clever storytelling, unforgettable characters, and Alan Silvestri's iconic score, Back to the Future remains a beloved cultural phenomenon that has captivated audiences for decades.",
+      "image": "images2/Back_to_the_Future.jpg",
+      "genre": "Sci-Fi, Adventure, Comedy",
+      "themes": "Time travel, family, and destiny",
+      "director": "Robert Zemeckis",
+      "writers": "Robert Zemeckis, Bob Gale",
+      "releaseYear": 1985,
+      "duration": "1 hour 56 minutes",
+      "language": "English"
+    },
+
+    {
+      "id": "",
+      "title": "Gattaca",
+      "description": "Gattaca is a 1997 science fiction drama directed by Andrew Niccol, a thought-provoking exploration of genetic engineering, ambition, and human potential. Starring Ethan Hawke (Vincent Freeman), Uma Thurman (Irene Cassini), and Jude Law (Jerome Eugene Morrow), the film is set in a dystopian future where genetic perfection dictates social status. Vincent, born naturally and deemed 'in-valid,' assumes another's identity to achieve his dream of travelling to space. The film examines themes of identity, determination, and the ethical implications of genetic manipulation. With its sleek visual style, compelling narrative, and stirring performances, Gattaca is celebrated as a modern sci-fi classic that raises profound questions about humanity and destiny.",
+      "image": "images2/Gattaca_poster.jpg",
+      "genre": "Sci-Fi, Drama",
+      "themes": "Genetic engineering, ambition, and identity",
+      "director": "Andrew Niccol",
+      "writers": "Andrew Niccol",
+      "releaseYear": 1997,
+      "duration": "1 hour 46 minutes",
+      "language": "English"
+    },
+    {
+      "id": "",
+      "title": "The Time Machine",
+      "description": "The Time Machine is a 2002 science fiction adventure film directed by Simon Wells, based on the classic novel by H.G. Wells. Starring Guy Pearce (Dr. Alexander Hartdegen), Samantha Mumba (Mara), and Jeremy Irons (Über-Morlock), the film follows Dr. Hartdegen, a brilliant inventor who creates a time machine to change the past after a personal tragedy. Instead, he finds himself journeying thousands of years into the future, discovering a world divided between the peaceful Eloi and the predatory Morlocks. With its striking visuals, thrilling action, and emotional core, The Time Machine explores themes of time, destiny, and the consequences of human progress.",
+      "image": "images2/Time_machine.jpg",
+      "genre": "Sci-Fi, Adventure",
+      "themes": "Time, destiny, and human progress",
+      "director": "Simon Wells",
+      "writers": "H.G. Wells (novel), John Logan (screenplay)",
+      "releaseYear": 2002,
+      "duration": "1 hour 36 minutes",
+      "language": "English"
+    },
+    {
+      "id": "",
+      "title": "Donnie Darko",
+      "description": "Donnie Darko is a 2001 psychological sci-fi thriller written and directed by Richard Kelly, a cult classic known for its haunting atmosphere and enigmatic narrative. Starring Jake Gyllenhaal (Donnie Darko), Jena Malone (Gretchen Ross), and Drew Barrymore (Karen Pomeroy), the film follows Donnie, a troubled teenager who experiences bizarre visions of a menacing figure in a rabbit costume named Frank. As Donnie unravels the mysteries of time travel, alternate realities, and fate, the story delves into themes of mental health, existentialism, and the butterfly effect. With its surreal storytelling, moody soundtrack, and unforgettable performances, Donnie Darko continues to intrigue and captivate audiences.",
+      "image": "images2/Donnie_Darko_poster.jpg",
+      "genre": "Sci-Fi, Thriller",
+      "themes": "Time travel, fate, and existentialism",
+      "director": "Richard Kelly",
+      "writers": "Richard Kelly",
+      "releaseYear": 2001,
+      "duration": "1 hour 53 minutes",
+      "language": "English"
+    },
+    {
+      "id": "",
+      "title": "Mad Max",
+      "description": "Mad Max is a 1979 Australian dystopian action film directed by George Miller, a gritty and explosive tale of survival and revenge in a lawless, post-apocalyptic world. Starring Mel Gibson (Max Rockatansky), Joanne Samuel (Jessie Rockatansky), and Hugh Keays-Byrne (Toecutter), the film follows Max, a hardened policeman, as he seeks vengeance after a violent motorcycle gang destroys his family. Known for its visceral action sequences, innovative stunts, and Gibson’s breakout performance, Mad Max established George Miller as a visionary filmmaker and laid the foundation for one of the most iconic franchises in cinema history. The film explores themes of justice, chaos, and the human instinct for survival.",
+      "image": "images2/Mad_Max_Fury_Road.jpg",
+      "genre": "Action, Sci-Fi",
+      "themes": "Survival, revenge, and justice",
+      "director": "George Miller",
+      "writers": "George Miller, James McCausland",
+      "releaseYear": 1979,
+      "duration": "1 hour 28 minutes",
+      "language": "English"
+    },
+    {
+      "id": "",
+      "title": "Riddick",
+      "description": "Riddick is a 2013 sci-fi action film directed by David Twohy, the third instalment in the series following the adventures of the antihero Riddick. Starring Vin Diesel (Riddick), Katee Sackhoff (Dahl), and Matt Nable (Boss Johns), the film sees Riddick stranded on a desolate planet teeming with deadly predators. As he battles the planet's hostile environment, Riddick must also fend off mercenaries hunting him for a bounty. Combining intense action, suspenseful survival elements, and Diesel’s charismatic performance, Riddick delves into themes of isolation, resilience, and primal instinct. With its dark atmosphere and visceral thrills, the film is a gripping addition to the Riddick saga.",
+      "image": "images2/Chronicles_of_riddick_ver2.jpg",
+      "genre": "Sci-Fi, Action",
+      "themes": "Survival, isolation, and resilience",
+      "director": "David Twohy",
+      "writers": "David Twohy, Jim Wheat, Ken Wheat",
+      "releaseYear": 2013,
+      "duration": "1 hour 59 minutes",
+      "language": "English"
+    },
+    {
+      "id": "",
+      "title": "Dune",
+      "description": "Dune is a 2021 epic sci-fi film directed by Denis Villeneuve, a visually stunning adaptation of Frank Herbert's iconic novel. Starring Timothée Chalamet (Paul Atreides), Rebecca Ferguson (Lady Jessica), and Oscar Isaac (Duke Leto Atreides), the film chronicles the journey of Paul, a young heir to a noble family tasked with protecting the desert planet Arrakis, the only source of the universe's most valuable substance, spice. As political intrigue and betrayal threaten his family, Paul begins to discover his destiny tied to the planet’s mysterious Fremen inhabitants. Known for its breathtaking cinematography, Hans Zimmer's epic score, and an ensemble cast, Dune explores themes of power, destiny, and ecological balance, cementing its place as a landmark in science fiction cinema.",
+      "image": "images2/Dune.jpg",
+      "genre": "Sci-Fi, Drama",
+      "themes": "Power, destiny, and ecology",
+      "director": "Denis Villeneuve",
+      "writers": "Frank Herbert (novel), Jon Spaihts, Denis Villeneuve, Eric Roth",
+      "releaseYear": 2021,
+      "duration": "2 hours 35 minutes",
+      "language": "English"
+    }
+    
+    
+    
+    
+    
+    
+    
+  ]
+}
